@@ -26,14 +26,14 @@ function App() {
                 <span className="text-green-400">Executives</span>, and{" "}
                 <span className="text-green-400">world-class</span> problem solvers
               </h1>
-              <img src="/ifasa_logo.png" alt="" className="w-[113px] h-[120px]" />
+              <img src="/bbg-2.png" alt="" className="w-[113px] h-[120px]" />
             </div>
           </div>
 
           <div className="block lg:hidden">
             <div className="w-[40%] justify-center mx-auto flex gap-3 items-center">
               <img src="/ifasa_logo.png" alt="" className="w-[35px] h-[37px]" />
-              <img src="/ifasa_logo.png" alt="" className="w-[35px] h-[37px]" />
+              <img src="/bbg-2.png" alt="" className="w-[35px] h-[37px]" />
             </div>
             <h1 className="text-[22px] sm:text-[26px] pt-2 px-6 lg:text-[46px] font-bold text-black text-center ">
               Meet our Team of{" "}
@@ -77,7 +77,7 @@ function App() {
               className="w-[74px] h-[78px] sm:w-[128px] sm:h-[130px] lg:w-[238px] lg:h-[252px]"
             />
             <img
-              src="/ifasa_logo.png"
+              src="/bbg-2.png"
               alt=""
               className="mr-[10%] lg:mr-[12%] w-[74px] h-[78px] sm:w-[128px] sm:h-[130px] lg:w-[238px] lg:h-[252px]"
             />
