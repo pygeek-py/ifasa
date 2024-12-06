@@ -1,0 +1,16 @@
+<div className="w-[100%] h-[] md:h-[54vh]">
+        <div className="w-[70%] mx-auto pt-12">
+          <h1 className="text-[22px] opacity-80 font-normal text-center ">
+          The Executives of the Ife Architecture Students' Association, Obafemi Awolowo University (IFASA O.A.U) 2023/24 Session, are committed to taking ambitious strides, pushing boundaries and exploring new opportunities for the growth and development of our members. 
+          </h1>
+
+          <h1 className="text-[19px] pt-8 opacity-80 font-normal text-center ">
+          Our goal is to lead IFASA to new heights of success, setting higher standards and inspiring future generations. 
+          </h1>
+
+          <h1 className="text-[19px] pt-8 font-bold text-center">
+          Kindly support our vision; <br />
+          <p className="font-normal opacity-80 pt-1"><span className="text-red-400 ">2020813378</span>  |   IFASA O.A.U   |   FIRST BANK</p>
+          </h1>
+        </div>
+      </div>
